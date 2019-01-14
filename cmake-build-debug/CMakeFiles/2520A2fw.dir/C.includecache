@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Anthony/Documents/C Projects/2520A2/programs.c
+ctype.h
+-
+programs.h
+/cygdrive/c/Users/Anthony/Documents/C Projects/2520A2/programs.h
+
+/cygdrive/c/Users/Anthony/Documents/C Projects/2520A2/programs.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+

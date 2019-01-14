@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/2520A2.dir/main.c.o CMakeFiles/2520A2.dir/helper.c.o  -o 2520A2.exe -Wl,--out-implib,lib2520A2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
